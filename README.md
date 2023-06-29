@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ny'eem Davis</h1>
 <h3 align="center">Full-Stack developer passionate and ready to create your next app</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyeemdavis" alt="nyeemdavis" /></a> </p>
-
 - 🔭 I’m currently working on [Orakle Sky](https://github.com/NyeemDavis/OrakleSky/blob/main/README.md)
 
 - 🌱 I’m currently learning **TypeScript, Python and React.js**
@@ -26,6 +24,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nyeemdavis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nyeemdavis" /></a><a href="https://ko-fi.com/nyeemdavis"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nyeemdavis" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyeemdavis&show_icons=true&locale=en" alt="nyeemdavis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyeemdavis&" alt="nyeemdavis" /></p>
