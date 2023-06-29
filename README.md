@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Orakle Sky](https://github.com/NyeemDavis/OrakleSky/blob/main/README.md)
 
-- 🌱 I’m currently learning **TypeScript, Python and React.js**
+- 🌱 I’m currently learning **React, Next.JS, Typescript and Python**
 
-- 👯 I’m looking to collaborate on **anything possible. Want to contribute to more open-source**
+- 👯 I’m looking to collaborate on **anything open-source :)**
 
 - 👨‍💻 All of my projects are available at [nyeem-davis.netlify.app](nyeem-davis.netlify.app)
 
