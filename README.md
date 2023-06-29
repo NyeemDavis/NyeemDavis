@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything possible. Want to contribute to more open-source**
 
-- 👨‍💻 All of my projects are available at [nyeem-davis.netlify.app](nyeem-davis.netlify.app)
+- 👨‍💻 All of my projects are available at [nyeem-davis.netlify.app](https://nyeem-davis.netlify.app)
 
 - 📫 How to reach me **You can reach me here for any business here: davisnyeem@gmail.cm**
 
