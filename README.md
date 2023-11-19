@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ny'eem Davis</h1>
 <h3 align="center">Full-Stack developer passionate and ready to create your next app</h3>
 
-- 🔭 I’m currently working on [Orakle Sky](https://github.com/NyeemDavis/OrakleSky/blob/main/README.md)
+- 🔭 I’m currently working on []()
 
-- 🌱 I’m currently learning **React, Next.JS, Typescript and Python**
+- 🌱 I’m currently learning **Java, Python, React**
 
 - 👯 I’m looking to collaborate on **anything open-source :)**
 
-- 👨‍💻 All of my projects are available at [nyeem-davis.netlify.app](nyeem-davis.netlify.app)
+- 👨‍💻 All of my projects are available on [My Site](nyeem-davis.netlify.app)
 
-- 📫 How to reach me **You can reach me here for any business here: davisnyeem@gmail.com**
+- 📫 How can you contact me? **You can reach me here for any business here: davisnyeem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
